@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tsproyect_optimizacion</string>
+    <string name="txtPrincipal">Seleccione una ruta: </string>
+    <string name="txtMsjRuta">Distancia total: </string>
+    <string name="txtMsjDioxido">Dioxido producido: </string>
+    <string name="txtRutaCorta">Ruta Corta</string>
+    <string name="btn">Calcular</string>
+    <string name="txtRuta">Hola</string>
+    <string name="txtDioxido">Hola2</string>
+</resources>
